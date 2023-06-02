@@ -25,7 +25,6 @@ Year,Month,State,Location,Food,Ingredient,Species,Genus,Status,Illnesses,Hospita
 2005,September,Utah,,"Whole Milk, Unpasteurized",Milk,Campylobacter jejuni,Campylobacter,Confirmed,11,0,0
 2005,August,Washington,Restaurant,"Liver, Chicken",,Campylobacter unknown,Campylobacter,Confirmed,9,0,0
 2005,May,Illinois,Restaurant,,,Campylobacter unknown,Campylobacter,Confirmed,8,5,0
-2005,July,Wyoming,Private Home/Residence,,,Campylobacter jejuni,Campylobacter,Confirmed,6,0,0
 2005,October,Pennsylvania,Private Home/Residence,,,Campylobacter jejuni,Campylobacter,Confirmed,5,,
 2005,November,Colorado,,"Whole Milk, Unpasteurized",Milk,Campylobacter jejuni,Campylobacter,Confirmed,5,0,0
 2005,May,Kansas,,"Whole Milk, Unpasteurized",,Campylobacter jejuni,Campylobacter,Confirmed,4,0,0
