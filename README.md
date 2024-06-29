@@ -1,6 +1,7 @@
-README: Foodborne Outbreaks Seasonal Analysis
+**README:** Foodborne Outbreaks Seasonal Analysis
 
-🦠**Foodborne Outbreaks Seasonal Analysis**🦠
+
+🦠 **Foodborne Outbreaks Seasonal Analysis** 🦠
 
 Project Overview: This project investigates the seasonal variation in foodborne illness outbreaks using data from the CDC (1998-2015). The analysis aims to determine whether foodborne illnesses peak during the summer months (June, July, August) due to warmer temperatures and increased outdoor cooking activities.
 
