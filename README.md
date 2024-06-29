@@ -18,10 +18,10 @@ Features
 
 Installation
 1.	Clone the repository:
-Git clone https://github.com/SurenaNokham/Foodborne_Outbreaks_Seasonal_Analysis.git
-2.	Navigate to the project directory:
-cd Foodborne_Outbreaks_Seasonal_Analysis
-3.	Install necessary dependencies:
+   https://github.com/SurenaNokham/Foodborne_Outbreaks_Seasonal_Analysis.git
+3.	Navigate to the project directory:
+   Foodborne_Outbreaks_Seasonal_Analysis
+5.	Install necessary dependencies:
 pip install -r requirements.txt
 
 Usage
